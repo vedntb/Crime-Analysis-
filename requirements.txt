@@ -1,0 +1,8 @@
+1) pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+2) pip show pandas matplotlib seaborn
+
+3) Link for Dataset
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data
