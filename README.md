@@ -14,6 +14,7 @@ Python | Pandas | Matplotlib | Seaborn | Jupyter Notebook
 
 ## Dataset
 [Chicago Crimes Dataset (Kaggle)](https://www.kaggle.com/datasets/currie32/crimes-in-chicago)
+https://drive.google.com/drive/folders/1QNQdeunIqWC7A1ODeeqXxhIzFo5A3840?usp=sharing
 
 ## How to Run
 1. Install requirements:
